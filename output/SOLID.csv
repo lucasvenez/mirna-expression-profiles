@@ -1,0 +1,16 @@
+class,seq,a_in,a_out,a_both,c_in,c_out,c_both,u_in,u_out,u_both,g_in,g_out,g_both
+SOLID-1,agcagcauuguacagggcuauga,6.0,6.0,12.0,4.0,4.0,8.0,5.0,5.0,10.0,7.0,7.0,14.0
+SOLID-2,agcagcauuguacagggcuauca,6.0,6.0,12.0,5.0,5.0,10.0,5.0,5.0,10.0,6.0,6.0,12.0
+SOLID-3,acgcccuucccccccuucuuca,1.0,1.0,2.0,13.0,13.0,26.0,6.0,6.0,12.0,1.0,1.0,2.0
+SOLID-4,cauaaaguagaaagcacuacu,10.0,10.0,20.0,3.0,4.0,7.0,4.0,3.0,7.0,3.0,3.0,6.0
+SOLID-5,ucucccaacccuuguaccagug,4.0,4.0,8.0,9.0,9.0,18.0,5.0,6.0,11.0,3.0,2.0,5.0
+SOLID-6,agguucugugauacacuccgacu,4.0,5.0,9.0,6.0,6.0,12.0,7.0,6.0,13.0,5.0,5.0,10.0
+SOLID-7,cucacugaacaaugaaugcaa,9.0,8.0,17.0,4.0,5.0,9.0,4.0,4.0,8.0,3.0,3.0,6.0
+SOLID-8,acaguagucugcacauugguua,5.0,5.0,10.0,4.0,4.0,8.0,7.0,7.0,14.0,5.0,5.0,10.0
+SOLID-9,ugucaguuugucaaauacccca,6.0,5.0,11.0,6.0,6.0,12.0,6.0,7.0,13.0,3.0,3.0,6.0
+SOLID-10,uagcaccaucugaaaucgguua,7.0,6.0,13.0,5.0,5.0,10.0,5.0,6.0,11.0,4.0,4.0,8.0
+SOLID-11,uagcaccauuugaaaucgguua,7.0,6.0,13.0,4.0,4.0,8.0,6.0,7.0,13.0,4.0,4.0,8.0
+SOLID-12,cagugcaaugauauugucaaagc,8.0,8.0,16.0,3.0,3.0,6.0,6.0,6.0,12.0,5.0,5.0,10.0
+SOLID-13,gcaugugaugaagcaaaucagu,8.0,8.0,16.0,3.0,3.0,6.0,5.0,4.0,9.0,5.0,6.0,11.0
+SOLID-14,gggcucacaucaccccau,4.0,4.0,8.0,8.0,8.0,16.0,3.0,2.0,5.0,2.0,3.0,5.0
+SOLID-15,gcuaaggaaguccugugcucag,5.0,5.0,10.0,5.0,5.0,10.0,5.0,5.0,10.0,6.0,6.0,12.0
